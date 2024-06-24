@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Husnain2003
+- 👋 Hi, I’m @Husnain
 - 👀 I’m interested in leraning new things.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on every possible thing from which i can learn
